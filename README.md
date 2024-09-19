@@ -4,20 +4,6 @@ Welcome to my GitHub profile! I'm a passionate IT professional specializing in s
 
 ---
 
-### About Fisher's Technology
-
-[Fisher's Technology](https://www.fisherstech.com) is a leading provider of office equipment, managed IT services, and document management solutions. We're committed to providing innovative technology and excellent customer service to businesses across Idaho, Montana, and Washington.
-
-**Services Fisher's Technology Offers:**
-
-- **Office Equipment**: Multifunction copiers, printers, and scanners.
-- **Managed IT Services**: Comprehensive IT management, network security, cloud services, and disaster recovery.
-- **Document Management**: Digital workflow automation, document storage, and retrieval solutions.
-
-Learn more at [www.fisherstech.com](https://www.fisherstech.com).
-
----
-
 ### My Projects
 
 Here are a few things I’m currently working on:
